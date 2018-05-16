@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/graphql": "^0.13.1",
+    "typescript": "^2.8.1"
+  },
+  "dependencies": {
+    "graphql": "^0.13.0",
+    "graphql-binding": "^2.0.0"
+  }
+}
