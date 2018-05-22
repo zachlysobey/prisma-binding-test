@@ -4,7 +4,7 @@ minimal repro of compile issue
 
 ## Related GH Issue
 
-https://github.com/prismagraphql/prisma-binding#166
+https://github.com/prismagraphql/prisma-binding/issues/166
 
 ## instructions
 
